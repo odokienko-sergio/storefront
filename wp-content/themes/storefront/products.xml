@@ -1,0 +1,550 @@
+<products>
+    <product id="252508456" name="Softstyle® CVC T-Shirt" type_id="1273271" default_color_id="85539681" code="67000" description="<ul> <li>4.6 oz./yd&sup2; (US) 7.7 oz./L yd (CA), 60/40 cotton/polyester, 30 singles</li> <li>Subtle heather texture on all colors except Pitch Black and White</li> <li>Polyester gives a drapey and soft hand</li> <li>Modern classic fit</li> <li>Narrow width, rib collar</li> <li>Taped neck and shoulders for comfort and durability</li> <li>Tear away label</li> </ul> <ul> <li>Gildan partners with Better Cotton to improve cotton farming globally</li> <li>Made with OEKO-TEX certified low-impact dyes</li> </ul> " position="999" min_qty="-1" bundle_size="-1" discount_id="-1" discount_applies_to_base="false" tax_exempt="false" use_default_decoration_pricing="true" manufacturer_id="52" can_decorate="true" white_price="21.6" light_price="21.6" dark_price="21.6" cheapest_price="21.6">
+        <images>
+            <image type="sales_image_1" src="/rshared/pdimages/5453978/[SIZE]/prod.jpg?b=20791361&v="/>
+            <image type="sales_image_2" src="/product/s/info_graphic/5/453/978/67000.jpg"/>
+            <image type="thumbnail" src="/rshared/pdimages/5453978/[SIZE]/prod.jpg?b=20791361&v="/>
+        </images>
+        <attachments> </attachments>
+        <views>
+            <view name="Front" image_url="/pcimages/6425498/[COLOR_ID]/[SIZE]/1/t/prod.png" id="24875961">
+                <area id="33083446" x="124.0" y="85.0" w="150.0" h="200.0" h_inch="16.0" w_inch="12.0" name="Body">
+                    <shape name="Rectangle"/>
+                    <process id="3"/>
+                    <process id="8" perfect_dpi="" min_dpi=""/>
+                    <process id="26" perfect_dpi="" min_dpi=""/>
+                </area>
+                <area id="33083451" x="225.0" y="85.0" w="50.0" h="50.0" h_inch="4.0" w_inch="4.0" name="Left Chest">
+                    <shape name="Rectangle"/>
+                    <process id="3"/>
+                    <process id="8" perfect_dpi="" min_dpi=""/>
+                    <process id="26" perfect_dpi="" min_dpi=""/>
+                </area>
+                <area id="33083456" x="124.0" y="86.0" w="50.0" h="50.0" h_inch="4.0" w_inch="4.0" name="Right Chest">
+                    <shape name="Rectangle"/>
+                    <process id="3"/>
+                    <process id="8" perfect_dpi="" min_dpi=""/>
+                    <process id="26" perfect_dpi="" min_dpi=""/>
+                </area>
+            </view>
+            <view name="Back" image_url="/pcimages/6425503/[COLOR_ID]/[SIZE]/1/t/prod.png" id="24875966">
+                <area id="33083461" x="133.0" y="73.5" w="132.0" h="176.0" h_inch="16.0" w_inch="12.0" name="Back">
+                    <shape name="Rectangle"/>
+                    <process id="3"/>
+                    <process id="8" perfect_dpi="" min_dpi=""/>
+                    <process id="26" perfect_dpi="" min_dpi=""/>
+                </area>
+            </view>
+            <view name="Left Sleeve" image_url="/pcimages/6425508/[COLOR_ID]/[SIZE]/1/t/prod.png" id="24875971">
+                <area id="33083466" x="172.0" y="121.0" w="37.0" h="37.0" h_inch="3.0" w_inch="3.0" name="Left Sleeve (Short)">
+                    <shape name="Rectangle"/>
+                    <process id="3"/>
+                    <process id="8" perfect_dpi="" min_dpi=""/>
+                    <process id="26" perfect_dpi="" min_dpi=""/>
+                </area>
+            </view>
+            <view name="Right Sleeve" image_url="/pcimages/6425513/[COLOR_ID]/[SIZE]/1/t/prod.png" id="24875976">
+                <area id="33083471" x="173.0" y="119.0" w="38.0" h="38.0" h_inch="3.0" w_inch="3.0" name="Right Sleeve (Short)">
+                    <shape name="Rectangle"/>
+                    <process id="3"/>
+                    <process id="8" perfect_dpi="" min_dpi=""/>
+                    <process id="26" perfect_dpi="" min_dpi=""/>
+                </area>
+            </view>
+        </views>
+        <colors>
+            <color id="85539681" color_id="158921648" type="D">
+                <clr html="#6C388C" name="Amethyst"/>
+            </color>
+            <color id="85539686" color_id="158921653" type="D">
+                <clr html="#708573" name="Cactus"/>
+            </color>
+            <color id="85539691" color_id="158921658" type="L">
+                <clr html="#D5D2D8" name="Cement"/>
+            </color>
+            <color id="85539696" color_id="158921663" type="D">
+                <clr html="#E1BBB4" name="Dusty Rose"/>
+            </color>
+            <color id="85539701" color_id="158921668" type="D">
+                <clr html="#4F4B48" name="Gunmetal"/>
+            </color>
+            <color id="85539706" color_id="158921673" type="D">
+                <clr html="#671D2B" name="Maroon Mist"/>
+            </color>
+            <color id="85539711" color_id="158921678" type="D">
+                <clr html="#282732" name="Navy Mist"/>
+            </color>
+            <color id="85539716" color_id="158921683" type="D">
+                <clr html="#101820" name="Pitch Black"/>
+            </color>
+            <color id="85539721" color_id="158921688" type="D">
+                <clr html="#312E2F" name="Pitch Black Mist"/>
+            </color>
+            <color id="85539726" color_id="158921693" type="D">
+                <clr html="#E4A3BB" name="Plumrose"/>
+            </color>
+            <color id="85539731" color_id="158921698" type="D">
+                <clr html="#F25865" name="Red Mist"/>
+            </color>
+            <color id="85539736" color_id="158921703" type="D">
+                <clr html="#325494" name="Royal Mist"/>
+            </color>
+            <color id="85539741" color_id="158921708" type="D">
+                <clr html="#9B846A" name="Slate"/>
+            </color>
+            <color id="85539746" color_id="158921713" type="D">
+                <clr html="#445153" name="Steel Blue"/>
+            </color>
+            <color id="85539751" color_id="158921718" type="W">
+                <clr html="#FFFFFF" name="White"/>
+            </color>
+            <color id="85539756" color_id="180441081" type="D">
+                <clr html="#00A9CE" name="Caribbean Mist"/>
+            </color>
+            <color id="85539761" color_id="180441086" type="D">
+                <clr html="#E2DBCE" name="Dune Mist"/>
+            </color>
+            <color id="85539766" color_id="180919446" type="D">
+                <clr html="#425563" name="Dark Heather"/>
+            </color>
+            <color id="85539771" color_id="182407621" type="D">
+                <clr html="#7ba4db" name="Carolina Blue Mist"/>
+            </color>
+            <color id="85539776" color_id="182407626" type="D">
+                <clr html="#657173" name="Kelly Mist"/>
+            </color>
+        </colors>
+        <size_chart_labels>
+            <label name="Body Length"/>
+            <label name="Body Length Tolerance"/>
+            <label name="Chest Tolerance"/>
+            <label name="Chest Width (Laid Flat)"/>
+        </size_chart_labels>
+        <sizes>
+            <size id="1" name="Small" value="S" white_price="0.0" light_price="0.0" dark_price="0.0" size_label_1="28" size_label_2="+/-1" size_label_3="+/-1" size_label_4="18"> </size>
+            <size id="2" name="Medium" value="M" selected="true" white_price="0.0" light_price="0.0" dark_price="0.0" size_label_1="29" size_label_2="+/-1" size_label_3="+/-1" size_label_4="20"> </size>
+            <size id="3" name="Large" value="L" white_price="0.0" light_price="0.0" dark_price="0.0" size_label_1="30" size_label_2="+/-1" size_label_3="+/-1" size_label_4="22"> </size>
+            <size id="4" name="X Large" value="XL" white_price="0.0" light_price="0.0" dark_price="0.0" size_label_1="31" size_label_2="+/-1" size_label_3="+/-1" size_label_4="24"> </size>
+            <size id="5" name="2X Large" value="2XL" white_price="1.59" light_price="1.59" dark_price="1.59" size_label_1="32" size_label_2="+/-1" size_label_3="+/-1" size_label_4="26"> </size>
+            <size id="6" name="3X Large" value="3XL" white_price="2.69" light_price="2.69" dark_price="2.69" size_label_1="33" size_label_2="+/-1" size_label_3="+/-1" size_label_4="28"> </size>
+            <size id="21" name="XS" value="XS" white_price="0.0" light_price="0.0" dark_price="0.0" size_label_1="27" size_label_2="+/-1" size_label_3="+/-1" size_label_4="16"> </size>
+            <size id="12" name="4X Large" value="4XL" white_price="2.69" light_price="0.0" dark_price="0.0" size_label_1="34" size_label_2="+/-1" size_label_3="+/-1" size_label_4="30"> </size>
+        </sizes>
+        <size_color_combinations>
+            <size id="1">
+                <color id="85539751"/>
+                <color id="85539736"/>
+                <color id="85539686"/>
+                <color id="85539721"/>
+                <color id="85539711"/>
+                <color id="85539726"/>
+                <color id="85539746"/>
+                <color id="85539741"/>
+                <color id="85539731"/>
+                <color id="85539716"/>
+                <color id="85539681"/>
+                <color id="85539696"/>
+                <color id="85539691"/>
+                <color id="85539701"/>
+                <color id="85539706"/>
+                <color id="85539756"/>
+                <color id="85539761"/>
+                <color id="85539766"/>
+                <color id="85539771"/>
+                <color id="85539776"/>
+            </size>
+            <size id="2">
+                <color id="85539731"/>
+                <color id="85539716"/>
+                <color id="85539681"/>
+                <color id="85539696"/>
+                <color id="85539691"/>
+                <color id="85539701"/>
+                <color id="85539706"/>
+                <color id="85539751"/>
+                <color id="85539736"/>
+                <color id="85539686"/>
+                <color id="85539721"/>
+                <color id="85539711"/>
+                <color id="85539726"/>
+                <color id="85539746"/>
+                <color id="85539741"/>
+                <color id="85539756"/>
+                <color id="85539761"/>
+                <color id="85539766"/>
+                <color id="85539771"/>
+                <color id="85539776"/>
+            </size>
+            <size id="3">
+                <color id="85539731"/>
+                <color id="85539716"/>
+                <color id="85539681"/>
+                <color id="85539696"/>
+                <color id="85539691"/>
+                <color id="85539701"/>
+                <color id="85539706"/>
+                <color id="85539751"/>
+                <color id="85539736"/>
+                <color id="85539686"/>
+                <color id="85539721"/>
+                <color id="85539711"/>
+                <color id="85539726"/>
+                <color id="85539746"/>
+                <color id="85539741"/>
+                <color id="85539756"/>
+                <color id="85539761"/>
+                <color id="85539766"/>
+                <color id="85539771"/>
+                <color id="85539776"/>
+            </size>
+            <size id="4">
+                <color id="85539746"/>
+                <color id="85539741"/>
+                <color id="85539731"/>
+                <color id="85539716"/>
+                <color id="85539681"/>
+                <color id="85539696"/>
+                <color id="85539691"/>
+                <color id="85539701"/>
+                <color id="85539706"/>
+                <color id="85539751"/>
+                <color id="85539736"/>
+                <color id="85539686"/>
+                <color id="85539721"/>
+                <color id="85539711"/>
+                <color id="85539726"/>
+                <color id="85539756"/>
+                <color id="85539761"/>
+                <color id="85539766"/>
+                <color id="85539771"/>
+                <color id="85539776"/>
+            </size>
+            <size id="5">
+                <color id="85539731"/>
+                <color id="85539716"/>
+                <color id="85539681"/>
+                <color id="85539696"/>
+                <color id="85539691"/>
+                <color id="85539701"/>
+                <color id="85539706"/>
+                <color id="85539751"/>
+                <color id="85539736"/>
+                <color id="85539686"/>
+                <color id="85539721"/>
+                <color id="85539711"/>
+                <color id="85539726"/>
+                <color id="85539746"/>
+                <color id="85539741"/>
+                <color id="85539756"/>
+                <color id="85539761"/>
+                <color id="85539766"/>
+                <color id="85539771"/>
+                <color id="85539776"/>
+            </size>
+            <size id="6">
+                <color id="85539681"/>
+                <color id="85539696"/>
+                <color id="85539691"/>
+                <color id="85539701"/>
+                <color id="85539706"/>
+                <color id="85539751"/>
+                <color id="85539736"/>
+                <color id="85539686"/>
+                <color id="85539721"/>
+                <color id="85539711"/>
+                <color id="85539726"/>
+                <color id="85539746"/>
+                <color id="85539741"/>
+                <color id="85539731"/>
+                <color id="85539716"/>
+                <color id="85539756"/>
+                <color id="85539761"/>
+                <color id="85539766"/>
+                <color id="85539771"/>
+                <color id="85539776"/>
+            </size>
+            <size id="21">
+                <color id="85539716"/>
+                <color id="85539751"/>
+            </size>
+            <size id="12">
+                <color id="85539716"/>
+                <color id="85539751"/>
+            </size>
+        </size_color_combinations>
+        <skus>
+            <sku code="B00260673" gtin="00191675326141" color_id="85539681" size_id="1"/>
+            <sku code="B00260173" gtin="00191675325236" color_id="85539686" size_id="1"/>
+            <sku code="B00260583" gtin="00191675325298" color_id="85539691" size_id="1"/>
+            <sku code="B00260303" gtin="00191675325359" color_id="85539696" size_id="1"/>
+            <sku code="B00260103" gtin="00191675325410" color_id="85539701" size_id="1"/>
+            <sku code="B00260533" gtin="00191675325472" color_id="85539706" size_id="1"/>
+            <sku code="B00260653" gtin="00191675325533" color_id="85539711" size_id="1"/>
+            <sku code="B00260503" gtin="00191675325595" color_id="85539716" size_id="1"/>
+            <sku code="B00260113" gtin="00191675327759" color_id="85539721" size_id="1"/>
+            <sku code="B00260123" gtin="00191675325656" color_id="85539726" size_id="1"/>
+            <sku code="B00260703" gtin="00191675325717" color_id="85539731" size_id="1"/>
+            <sku code="B00260753" gtin="00191675325779" color_id="85539736" size_id="1"/>
+            <sku code="B00260093" gtin="00191675325830" color_id="85539741" size_id="1"/>
+            <sku code="B00260133" gtin="00191675325892" color_id="85539746" size_id="1"/>
+            <sku code="B00260003" gtin="00191675325953" color_id="85539751" size_id="1"/>
+            <sku code="B00260033" gtin="00191675359248" color_id="85539756" size_id="1"/>
+            <sku code="B00260023" gtin="00191675359187" color_id="85539761" size_id="1"/>
+            <sku code="B00260593" gtin="00191675366208" color_id="85539766" size_id="1"/>
+            <sku code="B00260253" gtin="00191675366390" color_id="85539771" size_id="1"/>
+            <sku code="B00260193" gtin="00191675366338" color_id="85539776" size_id="1"/>
+            <sku code="B00260674" gtin="00191675325120" color_id="85539681" size_id="2"/>
+            <sku code="B00260174" gtin="00191675325243" color_id="85539686" size_id="2"/>
+            <sku code="B00260584" gtin="00191675325304" color_id="85539691" size_id="2"/>
+            <sku code="B00260304" gtin="00191675325366" color_id="85539696" size_id="2"/>
+            <sku code="B00260104" gtin="00191675325427" color_id="85539701" size_id="2"/>
+            <sku code="B00260534" gtin="00191675325489" color_id="85539706" size_id="2"/>
+            <sku code="B00260654" gtin="00191675325540" color_id="85539711" size_id="2"/>
+            <sku code="B00260504" gtin="00191675325601" color_id="85539716" size_id="2"/>
+            <sku code="B00260114" gtin="00191675327766" color_id="85539721" size_id="2"/>
+            <sku code="B00260124" gtin="00191675325663" color_id="85539726" size_id="2"/>
+            <sku code="B00260704" gtin="00191675325724" color_id="85539731" size_id="2"/>
+            <sku code="B00260754" gtin="00191675325786" color_id="85539736" size_id="2"/>
+            <sku code="B00260094" gtin="00191675325847" color_id="85539741" size_id="2"/>
+            <sku code="B00260134" gtin="00191675325908" color_id="85539746" size_id="2"/>
+            <sku code="B00260004" gtin="00191675325960" color_id="85539751" size_id="2"/>
+            <sku code="B00260034" gtin="00191675359255" color_id="85539756" size_id="2"/>
+            <sku code="B00260024" gtin="00191675359194" color_id="85539761" size_id="2"/>
+            <sku code="B00260594" gtin="00191675366215" color_id="85539766" size_id="2"/>
+            <sku code="B00260254" gtin="00191675366406" color_id="85539771" size_id="2"/>
+            <sku code="B00260194" gtin="00191675366345" color_id="85539776" size_id="2"/>
+            <sku code="B00260675" gtin="00191675325137" color_id="85539681" size_id="3"/>
+            <sku code="B00260175" gtin="00191675325250" color_id="85539686" size_id="3"/>
+            <sku code="B00260585" gtin="00191675325311" color_id="85539691" size_id="3"/>
+            <sku code="B00260305" gtin="00191675325373" color_id="85539696" size_id="3"/>
+            <sku code="B00260105" gtin="00191675325434" color_id="85539701" size_id="3"/>
+            <sku code="B00260535" gtin="00191675325496" color_id="85539706" size_id="3"/>
+            <sku code="B00260655" gtin="00191675325557" color_id="85539711" size_id="3"/>
+            <sku code="B00260505" gtin="00191675325618" color_id="85539716" size_id="3"/>
+            <sku code="B00260115" gtin="00191675327773" color_id="85539721" size_id="3"/>
+            <sku code="B00260125" gtin="00191675325670" color_id="85539726" size_id="3"/>
+            <sku code="B00260705" gtin="00191675325731" color_id="85539731" size_id="3"/>
+            <sku code="B00260755" gtin="00191675325793" color_id="85539736" size_id="3"/>
+            <sku code="B00260095" gtin="00191675325854" color_id="85539741" size_id="3"/>
+            <sku code="B00260135" gtin="00191675325915" color_id="85539746" size_id="3"/>
+            <sku code="B00260005" gtin="00191675325977" color_id="85539751" size_id="3"/>
+            <sku code="B00260035" gtin="00191675359262" color_id="85539756" size_id="3"/>
+            <sku code="B00260025" gtin="00191675359200" color_id="85539761" size_id="3"/>
+            <sku code="B00260595" gtin="00191675366222" color_id="85539766" size_id="3"/>
+            <sku code="B00260255" gtin="00191675366413" color_id="85539771" size_id="3"/>
+            <sku code="B00260195" gtin="00191675366352" color_id="85539776" size_id="3"/>
+            <sku code="B00260676" gtin="00191675325144" color_id="85539681" size_id="4"/>
+            <sku code="B00260176" gtin="00191675325267" color_id="85539686" size_id="4"/>
+            <sku code="B00260586" gtin="00191675325328" color_id="85539691" size_id="4"/>
+            <sku code="B00260306" gtin="00191675325380" color_id="85539696" size_id="4"/>
+            <sku code="B00260106" gtin="00191675325441" color_id="85539701" size_id="4"/>
+            <sku code="B00260536" gtin="00191675325502" color_id="85539706" size_id="4"/>
+            <sku code="B00260656" gtin="00191675325564" color_id="85539711" size_id="4"/>
+            <sku code="B00260506" gtin="00191675325625" color_id="85539716" size_id="4"/>
+            <sku code="B00260116" gtin="00191675327780" color_id="85539721" size_id="4"/>
+            <sku code="B00260126" gtin="00191675325687" color_id="85539726" size_id="4"/>
+            <sku code="B00260706" gtin="00191675325748" color_id="85539731" size_id="4"/>
+            <sku code="B00260756" gtin="00191675325809" color_id="85539736" size_id="4"/>
+            <sku code="B00260096" gtin="00191675325861" color_id="85539741" size_id="4"/>
+            <sku code="B00260136" gtin="00191675325922" color_id="85539746" size_id="4"/>
+            <sku code="B00260006" gtin="00191675325984" color_id="85539751" size_id="4"/>
+            <sku code="B00260036" gtin="00191675359279" color_id="85539756" size_id="4"/>
+            <sku code="B00260026" gtin="00191675359217" color_id="85539761" size_id="4"/>
+            <sku code="B00260596" gtin="00191675366239" color_id="85539766" size_id="4"/>
+            <sku code="B00260256" gtin="00191675366420" color_id="85539771" size_id="4"/>
+            <sku code="B00260196" gtin="00191675366369" color_id="85539776" size_id="4"/>
+            <sku code="B00260677" gtin="00191675325151" color_id="85539681" size_id="5"/>
+            <sku code="B00260177" gtin="00191675325274" color_id="85539686" size_id="5"/>
+            <sku code="B00260587" gtin="00191675325335" color_id="85539691" size_id="5"/>
+            <sku code="B00260307" gtin="00191675325397" color_id="85539696" size_id="5"/>
+            <sku code="B00260107" gtin="00191675325458" color_id="85539701" size_id="5"/>
+            <sku code="B00260537" gtin="00191675325519" color_id="85539706" size_id="5"/>
+            <sku code="B00260657" gtin="00191675325571" color_id="85539711" size_id="5"/>
+            <sku code="B00260507" gtin="00191675325632" color_id="85539716" size_id="5"/>
+            <sku code="B00260117" gtin="00191675327797" color_id="85539721" size_id="5"/>
+            <sku code="B00260127" gtin="00191675325694" color_id="85539726" size_id="5"/>
+            <sku code="B00260707" gtin="00191675325755" color_id="85539731" size_id="5"/>
+            <sku code="B00260757" gtin="00191675325816" color_id="85539736" size_id="5"/>
+            <sku code="B00260097" gtin="00191675325878" color_id="85539741" size_id="5"/>
+            <sku code="B00260137" gtin="00191675325939" color_id="85539746" size_id="5"/>
+            <sku code="B00260007" gtin="00191675325991" color_id="85539751" size_id="5"/>
+            <sku code="B00260037" gtin="00191675359286" color_id="85539756" size_id="5"/>
+            <sku code="B00260027" gtin="00191675359224" color_id="85539761" size_id="5"/>
+            <sku code="B00260597" gtin="00191675366246" color_id="85539766" size_id="5"/>
+            <sku code="B00260257" gtin="00191675366437" color_id="85539771" size_id="5"/>
+            <sku code="B00260197" gtin="00191675366376" color_id="85539776" size_id="5"/>
+            <sku code="B00260678" gtin="00191675325168" color_id="85539681" size_id="6"/>
+            <sku code="B00260178" gtin="00191675325281" color_id="85539686" size_id="6"/>
+            <sku code="B00260588" gtin="00191675325342" color_id="85539691" size_id="6"/>
+            <sku code="B00260308" gtin="00191675325403" color_id="85539696" size_id="6"/>
+            <sku code="B00260108" gtin="00191675325465" color_id="85539701" size_id="6"/>
+            <sku code="B00260538" gtin="00191675325526" color_id="85539706" size_id="6"/>
+            <sku code="B00260658" gtin="00191675325588" color_id="85539711" size_id="6"/>
+            <sku code="B00260508" gtin="00191675325649" color_id="85539716" size_id="6"/>
+            <sku code="B00260118" gtin="00191675327803" color_id="85539721" size_id="6"/>
+            <sku code="B00260128" gtin="00191675325700" color_id="85539726" size_id="6"/>
+            <sku code="B00260708" gtin="00191675325762" color_id="85539731" size_id="6"/>
+            <sku code="B00260758" gtin="00191675325823" color_id="85539736" size_id="6"/>
+            <sku code="B00260098" gtin="00191675325885" color_id="85539741" size_id="6"/>
+            <sku code="B00260138" gtin="00191675325946" color_id="85539746" size_id="6"/>
+            <sku code="B00260008" gtin="00191675326004" color_id="85539751" size_id="6"/>
+            <sku code="B00260038" gtin="00191675359293" color_id="85539756" size_id="6"/>
+            <sku code="B00260028" gtin="00191675359231" color_id="85539761" size_id="6"/>
+            <sku code="B00260598" gtin="00191675366253" color_id="85539766" size_id="6"/>
+            <sku code="B00260258" gtin="00191675366444" color_id="85539771" size_id="6"/>
+            <sku code="B00260198" gtin="00191675366383" color_id="85539776" size_id="6"/>
+            <sku code="B00260502" gtin="00191675326233" color_id="85539716" size_id="21"/>
+            <sku code="B00260002" gtin="00191675326295" color_id="85539751" size_id="21"/>
+            <sku code="B00260509" gtin="00191675339059" color_id="85539716" size_id="12"/>
+            <sku code="B00260009" gtin="00191675339127" color_id="85539751" size_id="12"/>
+        </skus>
+        <categories>
+            <category category_id="7735851"/>
+        </categories>
+    </product>
+    <product id="252508461" name="Softstyle® Women's CVC T-Shirt" type_id="1273271" default_color_id="85539786" code="67000L" description="<ul> <li>4.6 oz./yd&sup2;, 60/40 ringspun cotton/polyester, 30 singles</li> <li>Subtle heather texture on all colors except Pitch Black and White</li> <li>Polyester gives a drapey and soft hand</li> <li>Semi-fitted A-Line shape</li> <li>Narrow width, rib collar</li> <li>Taped neck and shoulders for comfort and durability</li> <li>Side seams</li> <li>Tear away label</li> </ul> <ul> <li>Gildan partners with Better Cotton to improve cotton farming globally</li> <li>Made with OEKO-TEX certified low-impact dyes</li> </ul> " position="999" min_qty="-1" bundle_size="-1" discount_id="-1" discount_applies_to_base="false" tax_exempt="false" use_default_decoration_pricing="true" manufacturer_id="52" can_decorate="true" white_price="21.84" light_price="21.84" dark_price="21.84" cheapest_price="21.84">
+        <images>
+            <image type="sales_image_1" src="/rshared/pdimages/5453983/[SIZE]/prod.jpg?b=20791361&v="/>
+            <image type="sales_image_2" src="/product/s/info_graphic/5/453/983/67000L.jpg"/>
+            <image type="thumbnail" src="/rshared/pdimages/5453983/[SIZE]/prod.jpg?b=20791361&v="/>
+        </images>
+        <attachments> </attachments>
+        <views>
+            <view name="Sample" image_url="/pcimages/6425518/[COLOR_ID]/[SIZE]/1/t/prod.png" id="24876006"> </view>
+            <view name="Front" image_url="/pcimages/6425523/[COLOR_ID]/[SIZE]/1/t/prod.png" id="24875986">
+                <area id="33083476" x="125.0" y="100.0" w="150.0" h="200.0" h_inch="16.0" w_inch="12.0" name="Body">
+                    <shape name="Rectangle"/>
+                    <process id="26" perfect_dpi="" min_dpi=""/>
+                </area>
+                <area id="33083481" x="224.0" y="100.0" w="50.0" h="50.0" h_inch="4.0" w_inch="4.0" name="Left Chest">
+                    <shape name="Rectangle"/>
+                    <process id="3"/>
+                </area>
+                <area id="33083486" x="125.0" y="100.0" w="50.0" h="50.0" h_inch="4.0" w_inch="4.0" name="Right Chest">
+                    <shape name="Rectangle"/>
+                    <process id="3"/>
+                </area>
+            </view>
+            <view name="Back" image_url="/pcimages/6425528/[COLOR_ID]/[SIZE]/1/t/prod.png" id="24875991">
+                <area id="33083491" x="131.0" y="82.0" w="150.0" h="200.0" h_inch="16.0" w_inch="12.0" name="Back">
+                    <shape name="Rectangle"/>
+                    <process id="26" perfect_dpi="" min_dpi=""/>
+                </area>
+            </view>
+            <view name="Left Sleeve" image_url="/pcimages/6425533/[COLOR_ID]/[SIZE]/1/t/prod.png" id="24875996">
+                <area id="33083496" x="182.0" y="104.0" w="36.0" h="36.0" h_inch="3.0" w_inch="3.0" name="Left Sleeve (Short)">
+                    <shape name="Rectangle"/>
+                    <process id="3"/>
+                    <process id="26" perfect_dpi="" min_dpi=""/>
+                </area>
+            </view>
+            <view name="Right Sleeve" image_url="/pcimages/6425538/[COLOR_ID]/[SIZE]/1/t/prod.png" id="24876001">
+                <area id="33083501" x="183.0" y="106.0" w="35.0" h="35.0" h_inch="3.0" w_inch="3.0" name="Right Sleeve (Short)">
+                    <shape name="Rectangle"/>
+                    <process id="3"/>
+                    <process id="26" perfect_dpi="" min_dpi=""/>
+                </area>
+            </view>
+        </views>
+        <colors>
+            <color id="85539786" color_id="158921753" type="D">
+                <clr html="#E1BBB4" name="Dusty Rose"/>
+            </color>
+            <color id="85539791" color_id="158921758" type="D">
+                <clr html="#4F4B48" name="Gunmetal"/>
+            </color>
+            <color id="85539796" color_id="158921763" type="D">
+                <clr html="#671D2B" name="Maroon Mist"/>
+            </color>
+            <color id="85539801" color_id="158921768" type="D">
+                <clr html="#282732" name="Navy Mist"/>
+            </color>
+            <color id="85539806" color_id="158921773" type="D">
+                <clr html="#101820" name="Pitch Black"/>
+            </color>
+            <color id="85539811" color_id="158921778" type="D">
+                <clr html="#E4A3BB" name="Plumrose"/>
+            </color>
+            <color id="85539816" color_id="158921783" type="D">
+                <clr html="#F25865" name="Red Mist"/>
+            </color>
+            <color id="85539821" color_id="158921788" type="D">
+                <clr html="#9B846A" name="Slate"/>
+            </color>
+            <color id="85539826" color_id="158921793" type="D">
+                <clr html="#445153" name="Steel Blue"/>
+            </color>
+            <color id="85539831" color_id="158921798" type="W">
+                <clr html="#FFFFFF" name="White"/>
+            </color>
+        </colors>
+        <size_chart_labels>
+            <label name="Body Length"/>
+            <label name="Body Length Tolerance"/>
+            <label name="Chest Tolerance"/>
+            <label name="Chest Width (Laid Flat)"/>
+        </size_chart_labels>
+        <sizes>
+            <size id="1" name="Small" value="S" white_price="0.0" light_price="0.0" dark_price="0.0" size_label_1="26 3/4" size_label_2="+/-1" size_label_3="+/-1" size_label_4="16 1/2"> </size>
+            <size id="2" name="Medium" value="M" selected="true" white_price="0.0" light_price="0.0" dark_price="0.0" size_label_1="27 1/4" size_label_2="+/-1" size_label_3="+/-1" size_label_4="18 1/2"> </size>
+            <size id="3" name="Large" value="L" white_price="0.0" light_price="0.0" dark_price="0.0" size_label_1="27 3/4" size_label_2="+/-1" size_label_3="+/-1" size_label_4="20 1/2"> </size>
+            <size id="4" name="X Large" value="XL" white_price="0.0" light_price="0.0" dark_price="0.0" size_label_1="28 1/4" size_label_2="+/-1" size_label_3="+/-1" size_label_4="22 1/2"> </size>
+            <size id="5" name="2X Large" value="2XL" white_price="1.32" light_price="1.41" dark_price="1.41" size_label_1="28 3/4" size_label_2="+/-1" size_label_3="+/-1" size_label_4="24 1/2"> </size>
+        </sizes>
+        <skus>
+            <sku code="B00360303" gtin="00191675326325" color_id="85539786" size_id="1"/>
+            <sku code="B00360583" gtin="00191675326479" color_id="85539791" size_id="1"/>
+            <sku code="B00360533" gtin="00191675326622" color_id="85539796" size_id="1"/>
+            <sku code="B00360653" gtin="00191675326578" color_id="85539801" size_id="1"/>
+            <sku code="B00360503" gtin="00191675326370" color_id="85539806" size_id="1"/>
+            <sku code="B00360103" gtin="00191675326424" color_id="85539811" size_id="1"/>
+            <sku code="B00360703" gtin="00191675326721" color_id="85539816" size_id="1"/>
+            <sku code="B00360093" gtin="00191675326677" color_id="85539821" size_id="1"/>
+            <sku code="B00360113" gtin="00191675326523" color_id="85539826" size_id="1"/>
+            <sku code="B00360003" gtin="00191675326776" color_id="85539831" size_id="1"/>
+            <sku code="B00360304" gtin="00191675326332" color_id="85539786" size_id="2"/>
+            <sku code="B00360584" gtin="00191675326486" color_id="85539791" size_id="2"/>
+            <sku code="B00360534" gtin="00191675326639" color_id="85539796" size_id="2"/>
+            <sku code="B00360654" gtin="00191675326585" color_id="85539801" size_id="2"/>
+            <sku code="B00360504" gtin="00191675326387" color_id="85539806" size_id="2"/>
+            <sku code="B00360104" gtin="00191675326431" color_id="85539811" size_id="2"/>
+            <sku code="B00360704" gtin="00191675326738" color_id="85539816" size_id="2"/>
+            <sku code="B00360094" gtin="00191675326684" color_id="85539821" size_id="2"/>
+            <sku code="B00360114" gtin="00191675326530" color_id="85539826" size_id="2"/>
+            <sku code="B00360004" gtin="00191675326783" color_id="85539831" size_id="2"/>
+            <sku code="B00360305" gtin="00191675326349" color_id="85539786" size_id="3"/>
+            <sku code="B00360585" gtin="00191675326493" color_id="85539791" size_id="3"/>
+            <sku code="B00360535" gtin="00191675326646" color_id="85539796" size_id="3"/>
+            <sku code="B00360655" gtin="00191675326592" color_id="85539801" size_id="3"/>
+            <sku code="B00360505" gtin="00191675326394" color_id="85539806" size_id="3"/>
+            <sku code="B00360105" gtin="00191675326448" color_id="85539811" size_id="3"/>
+            <sku code="B00360705" gtin="00191675326745" color_id="85539816" size_id="3"/>
+            <sku code="B00360095" gtin="00191675326691" color_id="85539821" size_id="3"/>
+            <sku code="B00360115" gtin="00191675326547" color_id="85539826" size_id="3"/>
+            <sku code="B00360005" gtin="00191675326790" color_id="85539831" size_id="3"/>
+            <sku code="B00360306" gtin="00191675326356" color_id="85539786" size_id="4"/>
+            <sku code="B00360586" gtin="00191675326509" color_id="85539791" size_id="4"/>
+            <sku code="B00360536" gtin="00191675326653" color_id="85539796" size_id="4"/>
+            <sku code="B00360656" gtin="00191675326608" color_id="85539801" size_id="4"/>
+            <sku code="B00360506" gtin="00191675326400" color_id="85539806" size_id="4"/>
+            <sku code="B00360106" gtin="00191675326455" color_id="85539811" size_id="4"/>
+            <sku code="B00360706" gtin="00191675326752" color_id="85539816" size_id="4"/>
+            <sku code="B00360096" gtin="00191675326707" color_id="85539821" size_id="4"/>
+            <sku code="B00360116" gtin="00191675326554" color_id="85539826" size_id="4"/>
+            <sku code="B00360006" gtin="00191675326806" color_id="85539831" size_id="4"/>
+            <sku code="B00360307" gtin="00191675326363" color_id="85539786" size_id="5"/>
+            <sku code="B00360587" gtin="00191675326516" color_id="85539791" size_id="5"/>
+            <sku code="B00360537" gtin="00191675326660" color_id="85539796" size_id="5"/>
+            <sku code="B00360657" gtin="00191675326615" color_id="85539801" size_id="5"/>
+            <sku code="B00360507" gtin="00191675326417" color_id="85539806" size_id="5"/>
+            <sku code="B00360107" gtin="00191675326462" color_id="85539811" size_id="5"/>
+            <sku code="B00360707" gtin="00191675326769" color_id="85539816" size_id="5"/>
+            <sku code="B00360097" gtin="00191675326714" color_id="85539821" size_id="5"/>
+            <sku code="B00360117" gtin="00191675326561" color_id="85539826" size_id="5"/>
+            <sku code="B00360007" gtin="00191675326813" color_id="85539831" size_id="5"/>
+        </skus>
+        <categories>
+            <category category_id="7735946"/>
+        </categories>
+    </product>
+</products>
