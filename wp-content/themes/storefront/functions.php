@@ -77,27 +77,48 @@ function import_products_from_xml() {
 	// Construct the path to the XML file using ABSPATH
 	$xml_file_path = ABSPATH . 'wp-content/themes/storefront/products.xml';
 
-	// Load the XML file
-	$xml = simplexml_load_file($xml_file_path);
+	// Get the XML file content
+	$xml_content = file_get_contents($xml_file_path);
+
+	// Fix only the problematic characters
+	$xml_content = str_replace('&', '&amp;', $xml_content);
+
+	// Load the XML from the corrected string
+	$xml = simplexml_load_string($xml_content);
+
+	// Check if XML loading was successful
+	if (!$xml) {
+		echo "Failed loading XML: ";
+		foreach(libxml_get_errors() as $error) {
+			echo "<br>", $error->message;
+		}
+		exit;
+	}
 
 	// Loop through each product in the XML file
 	foreach ($xml->product as $product_data) {
 		// Check if product already exists
-		$existing_product = get_page_by_title( $product_data->name, OBJECT, 'product' );
+		$existing_product = get_page_by_title((string) $product_data['name'], OBJECT, 'product');
 
 		if ($existing_product === null) {
 			// Create new product
 			$product = new WC_Product();
 
-			$product->set_name($product_data->name);
-			$product->set_description($product_data->description);
-			$product->set_price($product_data->price);
-			// Add other fields as necessary, based on your XML structure
+			$product->set_name((string) $product_data['name']);
+			$product->set_description((string) $product_data->description); // Modified to fetch child element
+			$product->set_price((float) $product_data['cheapest_price']);
+
+			// Add other fields based on your XML structure
+			$product->set_sku((string) $product_data['code']);
+			$product->set_regular_price((float) $product_data['white_price']);
 
 			$product->save();
+
+			if (is_wp_error($product->get_id())) {
+				echo $product->get_error_message();
+			}
 		}
 	}
-
 	echo "Products imported successfully!";
 }
 
@@ -105,12 +126,13 @@ function import_products_from_xml() {
  * Schedule the product import if it hasn't been scheduled yet.
  */
 function schedule_product_import() {
-	if ( ! wp_next_scheduled( 'import_daily_products' ) ) {
-		wp_schedule_event( time(), 'daily', 'import_daily_products' );
+	if (!wp_next_scheduled('import_daily_products')) {
+		wp_schedule_event(time(), 'daily', 'import_daily_products');
 	}
 }
-add_action( 'wp', 'schedule_product_import' );
+add_action('wp', 'schedule_product_import');
 
 // Link our import function to the scheduled event
-add_action( 'import_daily_products', 'import_products_from_xml' );
+add_action('import_daily_products', 'import_products_from_xml');
+
 

@@ -1,11 +1,28 @@
 <products>
-    <product id="252508456" name="Softstyle® CVC T-Shirt" type_id="1273271" default_color_id="85539681" code="67000" description="<ul> <li>4.6 oz./yd&sup2; (US) 7.7 oz./L yd (CA), 60/40 cotton/polyester, 30 singles</li> <li>Subtle heather texture on all colors except Pitch Black and White</li> <li>Polyester gives a drapey and soft hand</li> <li>Modern classic fit</li> <li>Narrow width, rib collar</li> <li>Taped neck and shoulders for comfort and durability</li> <li>Tear away label</li> </ul> <ul> <li>Gildan partners with Better Cotton to improve cotton farming globally</li> <li>Made with OEKO-TEX certified low-impact dyes</li> </ul> " position="999" min_qty="-1" bundle_size="-1" discount_id="-1" discount_applies_to_base="false" tax_exempt="false" use_default_decoration_pricing="true" manufacturer_id="52" can_decorate="true" white_price="21.6" light_price="21.6" dark_price="21.6" cheapest_price="21.6">
+    <product id="252508456" name="Softstyle® CVC T-Shirt" type_id="1273271" default_color_id="85539681" code="67000" position="999" min_qty="-1" bundle_size="-1" discount_id="-1" discount_applies_to_base="false" tax_exempt="false" use_default_decoration_pricing="true" manufacturer_id="52" can_decorate="true" white_price="21.6" light_price="21.6" dark_price="21.6" cheapest_price="21.6">
+        <description>
+            <![CDATA[
+        <ul>
+             <li>4.6 oz./yd² (US) 7.7 oz./L yd (CA), 60/40 cotton/polyester, 30 singles</li>
+             <li>Subtle heather texture on all colors except Pitch Black and White</li>
+             <li>Polyester gives a drapey and soft hand</li>
+             <li>Modern classic fit</li>
+             <li>Narrow width, rib collar</li>
+             <li>Taped neck and shoulders for comfort and durability</li>
+             <li>Tear away label</li>
+         </ul>
+         <ul>
+             <li>Gildan partners with Better Cotton to improve cotton farming globally</li>
+             <li>Made with OEKO-TEX certified low-impact dyes</li>
+         </ul>
+        ]]>
+        </description>
         <images>
-            <image type="sales_image_1" src="/rshared/pdimages/5453978/[SIZE]/prod.jpg?b=20791361&v="/>
+            <image type="sales_image_1" src="/rshared/pdimages/5453978/[SIZE]/prod.jpg?b=20791361&amp;v="/>
             <image type="sales_image_2" src="/product/s/info_graphic/5/453/978/67000.jpg"/>
-            <image type="thumbnail" src="/rshared/pdimages/5453978/[SIZE]/prod.jpg?b=20791361&v="/>
+            <image type="thumbnail" src="/rshared/pdimages/5453978/[SIZE]/prod.jpg?b=20791361&amp;v="/>
         </images>
-        <attachments> </attachments>
+        <attachments></attachments>
         <views>
             <view name="Front" image_url="/pcimages/6425498/[COLOR_ID]/[SIZE]/1/t/prod.png" id="24875961">
                 <area id="33083446" x="124.0" y="85.0" w="150.0" h="200.0" h_inch="16.0" w_inch="12.0" name="Body">
@@ -402,13 +419,31 @@
             <category category_id="7735851"/>
         </categories>
     </product>
-    <product id="252508461" name="Softstyle® Women's CVC T-Shirt" type_id="1273271" default_color_id="85539786" code="67000L" description="<ul> <li>4.6 oz./yd&sup2;, 60/40 ringspun cotton/polyester, 30 singles</li> <li>Subtle heather texture on all colors except Pitch Black and White</li> <li>Polyester gives a drapey and soft hand</li> <li>Semi-fitted A-Line shape</li> <li>Narrow width, rib collar</li> <li>Taped neck and shoulders for comfort and durability</li> <li>Side seams</li> <li>Tear away label</li> </ul> <ul> <li>Gildan partners with Better Cotton to improve cotton farming globally</li> <li>Made with OEKO-TEX certified low-impact dyes</li> </ul> " position="999" min_qty="-1" bundle_size="-1" discount_id="-1" discount_applies_to_base="false" tax_exempt="false" use_default_decoration_pricing="true" manufacturer_id="52" can_decorate="true" white_price="21.84" light_price="21.84" dark_price="21.84" cheapest_price="21.84">
+    <product id="252508461" name="Softstyle® Women's CVC T-Shirt" type_id="1273271" default_color_id="85539786" code="67000L" position="999" min_qty="-1" bundle_size="-1" discount_id="-1" discount_applies_to_base="false" tax_exempt="false" use_default_decoration_pricing="true" manufacturer_id="52" can_decorate="true" white_price="21.84" light_price="21.84" dark_price="21.84" cheapest_price="21.84">
+        <description>
+            <![CDATA[
+        <ul>
+             <li>4.6 oz./yd², 60/40 ringspun cotton/polyester, 30 singles</li>
+             <li>Subtle heather texture on all colors except Pitch Black and White</li>
+             <li>Polyester gives a drapey and soft hand</li>
+             <li>Semi-fitted A-Line shape</li>
+             <li>Narrow width, rib collar</li>
+             <li>Taped neck and shoulders for comfort and durability</li>
+             <li>Side seams</li>
+             <li>Tear away label</li>
+         </ul>
+         <ul>
+             <li>Gildan partners with Better Cotton to improve cotton farming globally</li>
+             <li>Made with OEKO-TEX certified low-impact dyes</li>
+         </ul>
+        ]]>
+        </description>
         <images>
-            <image type="sales_image_1" src="/rshared/pdimages/5453983/[SIZE]/prod.jpg?b=20791361&v="/>
+            <image type="sales_image_1" src="/rshared/pdimages/5453983/[SIZE]/prod.jpg?b=20791361&amp;v="/>
             <image type="sales_image_2" src="/product/s/info_graphic/5/453/983/67000L.jpg"/>
-            <image type="thumbnail" src="/rshared/pdimages/5453983/[SIZE]/prod.jpg?b=20791361&v="/>
+            <image type="thumbnail" src="/rshared/pdimages/5453983/[SIZE]/prod.jpg?b=20791361&amp;v="/>
         </images>
-        <attachments> </attachments>
+        <attachments></attachments>
         <views>
             <view name="Sample" image_url="/pcimages/6425518/[COLOR_ID]/[SIZE]/1/t/prod.png" id="24876006"> </view>
             <view name="Front" image_url="/pcimages/6425523/[COLOR_ID]/[SIZE]/1/t/prod.png" id="24875986">
