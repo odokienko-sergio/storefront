@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # WooCommerce Product Importer
 
 This repository contains code to automatically import products into WooCommerce from an XML file. The import process is executed once a day via WordPress cron.
@@ -30,4 +29,3 @@ Products will also be automatically imported once a day through the WordPress sc
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
