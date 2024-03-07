@@ -88,9 +88,9 @@ function myshop_import_products_from_xml() {
 
     // Check if XML loading was successful
     if (!$xml) {
-        echo __("Failed loading XML: ", 'myshop');
+        echo esc_html__("Failed loading XML: ", 'myshop-domain');
         foreach(libxml_get_errors() as $error) {
-            echo "<br>", $error->message;
+            echo "<br>", esc_html($error->message);
         }
         exit;
     }
@@ -98,28 +98,28 @@ function myshop_import_products_from_xml() {
     // Loop through each product in the XML file
     foreach ($xml->product as $product_data) {
         // Check if product already exists
-        $existing_product = get_page_by_title((string) $product_data['name'], OBJECT, 'product');
+        $existing_product = get_page_by_title((string) $product_data->name, OBJECT, 'product');
 
         if ($existing_product === null) {
             // Create new product
             $product = new WC_Product();
 
-            $product->set_name((string) $product_data['name']);
-            $product->set_description((string) $product_data->description);
-            $product->set_price((float) $product_data['cheapest_price']);
+            $product->set_name(esc_html((string) $product_data->name));
+            $product->set_description(esc_html((string) $product_data->description));
+            $product->set_price(esc_html((float) $product_data->cheapest_price));
 
             // Add other fields based on your XML structure
-            $product->set_sku((string) $product_data['code']);
-            $product->set_regular_price((float) $product_data['white_price']);
+            $product->set_sku(esc_html((string) $product_data->code));
+            $product->set_regular_price(esc_html((float) $product_data->white_price));
 
             $product->save();
 
             if (is_wp_error($product->get_id())) {
-                echo $product->get_error_message();
+                echo esc_html($product->get_error_message());
             }
         }
     }
-    echo __("Products imported successfully!", 'myshop');
+    echo esc_html__("Products imported successfully!", 'myshop-domain');
 }
 
 /**
@@ -134,6 +134,7 @@ add_action('wp', 'myshop_schedule_product_import');
 
 // Link our import function to the scheduled event
 add_action('myshop_import_daily_products', 'myshop_import_products_from_xml');
+
 
 
 
