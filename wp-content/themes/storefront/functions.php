@@ -88,7 +88,7 @@ function myshop_import_products_from_xml() {
 
     // Check if XML loading was successful
     if (!$xml) {
-        echo "Failed loading XML: ";
+        echo __("Failed loading XML: ", 'myshop');
         foreach(libxml_get_errors() as $error) {
             echo "<br>", $error->message;
         }
@@ -119,7 +119,7 @@ function myshop_import_products_from_xml() {
             }
         }
     }
-    echo "Products imported successfully!";
+    echo __("Products imported successfully!", 'myshop');
 }
 
 /**
@@ -134,6 +134,7 @@ add_action('wp', 'myshop_schedule_product_import');
 
 // Link our import function to the scheduled event
 add_action('myshop_import_daily_products', 'myshop_import_products_from_xml');
+
 
 
 
